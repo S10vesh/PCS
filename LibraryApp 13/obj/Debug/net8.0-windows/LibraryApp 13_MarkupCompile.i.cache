@@ -1,0 +1,20 @@
+﻿LibraryApp 13
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\slovesh\OneDrive\Desktop\LibraryApp 13\LibraryApp 13\obj\Debug\net8.0-windows\
+LibraryApp_13
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\slovesh\OneDrive\Desktop\LibraryApp 13\LibraryApp 13\App.xaml
+6-1798561728
+
+151978304574
+2161084641188
+AddEditAuthorWindow.xaml;AddEditBookWindow.xaml;AddEditGenreWindow.xaml;AuthorsWindow.xaml;GenresWindow.xaml;MainWindow.xaml;
+
+False
+
